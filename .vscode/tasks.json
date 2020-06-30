@@ -8,6 +8,15 @@
 			"problemMatcher": [],
 			"label": "npm: eject - cascading",
 			"detail": "react-scripts eject"
+		},
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "cascading/",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - cascading",
+			"detail": "node scripts/build.js"
 		}
 	]
-}
+}	
